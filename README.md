@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me. Tebogo Maboea on LinkedIn 
-- 😄 Pronouns: I'm looking forward to working with you 
+- 😄 Pronouns: I'm looking forward to working with you! 
 - ⚡ Fun fact: Data Science is the future! 
 
 <!---
